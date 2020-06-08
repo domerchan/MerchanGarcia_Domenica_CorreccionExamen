@@ -40,7 +40,7 @@ if __name__ == '__main__':
     
     
     inicioPar = time.time()
-    pool = multiprocessing.Pool(processes=20)
+    pool = multiprocessing.Pool(processes=25)
     resultsPar = pool.map(how_many_within_range_parallel, ar)
     pool.close() 
     pool.join()  
