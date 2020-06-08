@@ -6,4 +6,4 @@ El algoritmo se mejora utilizando listas en lugar de numpy arrays. Se consigue d
 # Multiprocessing
 ![](images/Multiprocessing.png)
 
-Los tiempos de ejecución se mejoran utilizando pools en lugar de manager.list y se consigue disminuir el tiempo de ejecución a un 74% del tiempo secuencial
+Los tiempos de ejecución se mejoran utilizando pools en lugar de manager.list y se consigue disminuir el tiempo de ejecución a un 54% del tiempo secuencial
